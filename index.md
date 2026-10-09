@@ -3,8 +3,6 @@ layout: home
 title: Kelsie A. Lopez
 ---
 
-# Kelsie A. Lopez
-
 ## Evolutionary biologist and genomicist
 
 I am an evolutionary biologist studying how genomic variation contributes to the evolution of complex traits in birds. I am currently a Ph.D. candidate in the Department of Organismic and Evolutionary Biology at Harvard University, advised by Dr. Scott V. Edwards.

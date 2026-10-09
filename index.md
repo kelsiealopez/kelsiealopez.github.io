@@ -15,8 +15,6 @@ My research combines comparative genomics, pangenomes, structural variation, and
 
 - Comparative genomics and pangenomes
 - Structural variation and genome evolution
-- Avian plumage coloration
-- Evolutionary developmental biology
 - Gene regulation and regulatory evolution
 - Conservation genomics
 - Neotropical bird diversity

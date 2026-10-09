@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-# Research
-
 My research focuses on how genomic variation contributes to the evolution of complex traits in birds. I use comparative genomics, pangenomes, structural variation, and transcriptomic approaches to connect patterns of genome evolution with adaptation and phenotype.
 
 ## Dissertation research

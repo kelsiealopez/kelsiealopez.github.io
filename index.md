@@ -11,9 +11,10 @@ My research combines comparative genomics, pangenomes, structural variation, and
 
 ## Research interests
 
-- Comparative genomics and pangenomes
+- Comparative genomics
+- Pangenomics
 - Structural variation and genome evolution
-- Gene regulation and regulatory evolution
+- Gene regulatory evolution
 - Conservation genomics
 - Neotropical bird diversity
 

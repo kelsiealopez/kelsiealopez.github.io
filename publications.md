@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
-
 ## Publications and manuscripts
 
 ### In revision
